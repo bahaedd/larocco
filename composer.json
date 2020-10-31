@@ -1,0 +1,15 @@
+{
+    "name": "bahaeddine/larocco",
+    "description": "A markdown-powered blog for Laravel",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "bahaeddine",
+            "email": "sihassi.bahaeddine@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "orchestra/testbench": "^6.3"
+    }
+}
